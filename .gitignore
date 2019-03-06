@@ -40,3 +40,17 @@ node.key
 *.swo
 *.swn
 *.so
+
+# PyBuilder
+target/
+.pybuild/
+
+# debuild
+debian/*.debhelper
+debian/*.substvars
+debian/.debhelper/
+debian/debhelper*
+debian/python-autobahn*
+debian/python3-autobahn*
+debian/files
+.pytest_cache/
