@@ -8,13 +8,11 @@ Build-Depends: debhelper,
                python-mock,
                python-pytest,
                python-setuptools,
-               python-twisted,
                python-txaio,
                python3-all,
                python3-mock,
                python3-pytest,
                python3-setuptools,
-               python3-twisted,
                python3-txaio
 Standards-Version: 4.1.3
 Homepage: https://github.com/crossbario/autobahn-python
